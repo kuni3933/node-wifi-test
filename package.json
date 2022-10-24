@@ -1,0 +1,22 @@
+{
+  "name": "node-wifi-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuni3933/node-wifi-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuni3933/node-wifi-test/issues"
+  },
+  "homepage": "https://github.com/kuni3933/node-wifi-test#readme",
+  "dependencies": {
+    "rpi-wifi-connection": "^1.0.17"
+  }
+}
