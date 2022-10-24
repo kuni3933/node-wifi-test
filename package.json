@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/kuni3933/node-wifi-test#readme",
   "dependencies": {
+    "fs": "^0.0.1-security",
     "rpi-wifi-connection": "^1.0.17"
   }
 }
